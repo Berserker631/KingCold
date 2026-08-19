@@ -1,0 +1,15 @@
+D:\Repos\KingCold\KingCold.Infrastructure\bin\Debug\net10.0\KingCold.Infrastructure.deps.json
+D:\Repos\KingCold\KingCold.Infrastructure\bin\Debug\net10.0\KingCold.Infrastructure.dll
+D:\Repos\KingCold\KingCold.Infrastructure\bin\Debug\net10.0\KingCold.Infrastructure.pdb
+D:\Repos\KingCold\KingCold.Infrastructure\bin\Debug\net10.0\KingCold.Domain.dll
+D:\Repos\KingCold\KingCold.Infrastructure\bin\Debug\net10.0\KingCold.Domain.pdb
+D:\Repos\KingCold\KingCold.Infrastructure\obj\Debug\net10.0\KingCold.Infrastructure.csproj.AssemblyReference.cache
+D:\Repos\KingCold\KingCold.Infrastructure\obj\Debug\net10.0\KingCold.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\KingCold\KingCold.Infrastructure\obj\Debug\net10.0\KingCold.Infrastructure.AssemblyInfoInputs.cache
+D:\Repos\KingCold\KingCold.Infrastructure\obj\Debug\net10.0\KingCold.Infrastructure.AssemblyInfo.cs
+D:\Repos\KingCold\KingCold.Infrastructure\obj\Debug\net10.0\KingCold.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Repos\KingCold\KingCold.Infrastructure\obj\Debug\net10.0\KingCold.68EEE5C5.Up2Date
+D:\Repos\KingCold\KingCold.Infrastructure\obj\Debug\net10.0\KingCold.Infrastructure.dll
+D:\Repos\KingCold\KingCold.Infrastructure\obj\Debug\net10.0\refint\KingCold.Infrastructure.dll
+D:\Repos\KingCold\KingCold.Infrastructure\obj\Debug\net10.0\KingCold.Infrastructure.pdb
+D:\Repos\KingCold\KingCold.Infrastructure\obj\Debug\net10.0\ref\KingCold.Infrastructure.dll

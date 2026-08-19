@@ -1,0 +1,12 @@
+D:\Repos\KingCold\KingCold.Domain\bin\Debug\net10.0\KingCold.Domain.deps.json
+D:\Repos\KingCold\KingCold.Domain\bin\Debug\net10.0\KingCold.Domain.dll
+D:\Repos\KingCold\KingCold.Domain\bin\Debug\net10.0\KingCold.Domain.pdb
+D:\Repos\KingCold\KingCold.Domain\obj\Debug\net10.0\KingCold.Domain.csproj.AssemblyReference.cache
+D:\Repos\KingCold\KingCold.Domain\obj\Debug\net10.0\KingCold.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\KingCold\KingCold.Domain\obj\Debug\net10.0\KingCold.Domain.AssemblyInfoInputs.cache
+D:\Repos\KingCold\KingCold.Domain\obj\Debug\net10.0\KingCold.Domain.AssemblyInfo.cs
+D:\Repos\KingCold\KingCold.Domain\obj\Debug\net10.0\KingCold.Domain.csproj.CoreCompileInputs.cache
+D:\Repos\KingCold\KingCold.Domain\obj\Debug\net10.0\KingCold.Domain.dll
+D:\Repos\KingCold\KingCold.Domain\obj\Debug\net10.0\refint\KingCold.Domain.dll
+D:\Repos\KingCold\KingCold.Domain\obj\Debug\net10.0\KingCold.Domain.pdb
+D:\Repos\KingCold\KingCold.Domain\obj\Debug\net10.0\ref\KingCold.Domain.dll

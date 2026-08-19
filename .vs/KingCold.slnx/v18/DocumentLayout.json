@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\KingCold\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D26D5B9E-C3B3-8C91-5BED-B91989F81726}|KingCold.API\\KingCold.API.csproj|d:\\repos\\kingcold\\kingcold.api\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26D5B9E-C3B3-8C91-5BED-B91989F81726}|KingCold.API\\KingCold.API.csproj|solutionrelative:kingcold.api\\controllers\\serviciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEBB73-36EE-1B07-D4B6-E2AF149507D0}|KingCold.Domain\\KingCold.Domain.csproj|d:\\repos\\kingcold\\kingcold.domain\\model\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEBB73-36EE-1B07-D4B6-E2AF149507D0}|KingCold.Domain\\KingCold.Domain.csproj|solutionrelative:kingcold.domain\\model\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26D5B9E-C3B3-8C91-5BED-B91989F81726}|KingCold.API\\KingCold.API.csproj|d:\\repos\\kingcold\\kingcold.api\\controllers\\movimientoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26D5B9E-C3B3-8C91-5BED-B91989F81726}|KingCold.API\\KingCold.API.csproj|solutionrelative:kingcold.api\\controllers\\movimientoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AEBB73-36EE-1B07-D4B6-E2AF149507D0}|KingCold.Domain\\KingCold.Domain.csproj|d:\\repos\\kingcold\\kingcold.domain\\model\\movimientoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AEBB73-36EE-1B07-D4B6-E2AF149507D0}|KingCold.Domain\\KingCold.Domain.csproj|solutionrelative:kingcold.domain\\model\\movimientoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26D5B9E-C3B3-8C91-5BED-B91989F81726}|KingCold.API\\KingCold.API.csproj|d:\\repos\\kingcold\\kingcold.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26D5B9E-C3B3-8C91-5BED-B91989F81726}|KingCold.API\\KingCold.API.csproj|solutionrelative:kingcold.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 195,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicioController.cs",
+              "DocumentMoniker": "D:\\Repos\\KingCold\\KingCold.API\\Controllers\\ServicioController.cs",
+              "RelativeDocumentMoniker": "KingCold.API\\Controllers\\ServicioController.cs",
+              "ToolTip": "D:\\Repos\\KingCold\\KingCold.API\\Controllers\\ServicioController.cs",
+              "RelativeToolTip": "KingCold.API\\Controllers\\ServicioController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAgwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T01:44:25.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "D:\\Repos\\KingCold\\KingCold.Domain\\Model\\Servicio.cs",
+              "RelativeDocumentMoniker": "KingCold.Domain\\Model\\Servicio.cs",
+              "ToolTip": "D:\\Repos\\KingCold\\KingCold.Domain\\Model\\Servicio.cs",
+              "RelativeToolTip": "KingCold.Domain\\Model\\Servicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T01:39:51.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovimientoInventario.cs",
+              "DocumentMoniker": "D:\\Repos\\KingCold\\KingCold.Domain\\Model\\MovimientoInventario.cs",
+              "RelativeDocumentMoniker": "KingCold.Domain\\Model\\MovimientoInventario.cs",
+              "ToolTip": "D:\\Repos\\KingCold\\KingCold.Domain\\Model\\MovimientoInventario.cs",
+              "RelativeToolTip": "KingCold.Domain\\Model\\MovimientoInventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T03:10:11.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "D:\\Repos\\KingCold\\KingCold.API\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "KingCold.API\\Controllers\\VentaController.cs",
+              "ToolTip": "D:\\Repos\\KingCold\\KingCold.API\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "KingCold.API\\Controllers\\VentaController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAtwCQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T02:56:56.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovimientoInventario.cs",
+              "DocumentMoniker": "D:\\Repos\\KingCold\\KingCold.API\\Controllers\\MovimientoInventario.cs",
+              "RelativeDocumentMoniker": "KingCold.API\\Controllers\\MovimientoInventario.cs",
+              "ToolTip": "D:\\Repos\\KingCold\\KingCold.API\\Controllers\\MovimientoInventario.cs",
+              "RelativeToolTip": "KingCold.API\\Controllers\\MovimientoInventario.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T21:31:16.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

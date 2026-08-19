@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="D:/Repos/KingCold/KingCold.API/KingCold.API.csproj" />
+  <Project Path="D:/Repos/KingCold/KingCold.Domain/KingCold.Domain.csproj" />
+  <Project Path="D:/Repos/KingCold/KingCold.Infrastructure/KingCold.Infrastructure.csproj" />
+  <Project Path="D:/Repos/KingCold/KingCold/KingCold.csproj" />
+</Solution>

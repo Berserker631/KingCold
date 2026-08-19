@@ -1,0 +1,6 @@
+@KingCold.API_HostAddress = http://localhost:5015
+
+GET {{KingCold.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
