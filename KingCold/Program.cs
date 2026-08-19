@@ -5,13 +5,12 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowFrontend",
-        policy =>
-        {
-            policy.WithOrigins("http://localhost:5173")
-                  .AllowAnyHeader()
-                  .AllowAnyMethod();
-        });
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
+    });
 });
 
 builder.Services.AddControllers();
@@ -27,13 +26,13 @@ builder.Services.AddDbContext<KingColdDbContext>(options =>
 var app = builder.Build();
 
 // 3. CONFIGURACIÓN DEL PIPELINE (Middleware)
-if (app.Environment.IsDevelopment())
-{
-    //app.UseSwagger();
-    //app.UseSwaggerUI(); // Esto es lo que genera la interfaz visual en /swagger
-}
-app.UseCors("AllowFrontend");
+//if (app.Environment.IsDevelopment())
+//{
+//    //app.UseSwagger();
+//    //app.UseSwaggerUI(); // Esto es lo que genera la interfaz visual en /swagger
+//}
 app.UseHttpsRedirection();
+app.UseCors("AllowAll");
 app.UseAuthorization();
 app.MapControllers();
 
